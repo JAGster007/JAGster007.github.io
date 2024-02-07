@@ -1,0 +1,15 @@
+.Main{
+    .FirstEdit{
+        text-decoration: underline;
+    }
+    .secondEdit{
+        background: orange;
+    }
+    .ThirdEdit{
+        color:red;font-weight:bold
+
+    }
+   
+
+
+}
